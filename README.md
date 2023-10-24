@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @RPRd001
 - 👀 I’m interested in learning front-end development & other programming subjects...
-- 🌱 I’m currently learning JavaScript & Python.
+- 🌱 I’m currently learning HTML, CSS, JavaScript & Python.
