@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @RPRd001
 - 👀 I’m interested in learning front-end development & other programming subjects...
-- 🌱 I’m currently learning HTML, CSS, JavaScript & Python, for becoming a Full Stack Software Developer.
+- 🌱 I’m currently learning React, Node and Express, for becoming a Full Stack Software Developer.
